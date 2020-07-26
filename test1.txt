@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is AC96-DE81
+
+ Directory of E:\My Git
+
+07/26/2020  10:02 PM    <DIR>          .
+07/26/2020  10:02 PM    <DIR>          ..
+07/26/2020  10:02 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  308,205,543,424 bytes free
